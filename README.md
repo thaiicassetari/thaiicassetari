@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 💫 GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
 
 
