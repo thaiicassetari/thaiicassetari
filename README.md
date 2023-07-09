@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 🌐 Redes sociais 
 
-![[Instagram](https://www.instagram.com/thaiane_c/)](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/[Instagram-%23E4405F](https://www.instagram.com/thaiane_c/).svg?style=for-the-badge&logo=Instagram&logoColor=white)
