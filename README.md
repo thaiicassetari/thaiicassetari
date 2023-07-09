@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 💫 GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&size_weight=0.5&count_weight=0.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
