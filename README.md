@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 💫 GitHub stats
 
+![Anurag's GitHub stats](https://github-readme-stats.gruvbox.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
