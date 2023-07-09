@@ -5,8 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🎓![image](https://github.com/thaiicassetari/thaiicassetari/assets/64805045/6367133a-5bdf-434a-93dd-5acd14c91a2b)
- Ciência da Computação
+- 🎓 Ciência da Computação
 - 💼 Trabalhando no Serpro
 
 💻 Tech stacks
@@ -22,4 +21,12 @@ Here are some ideas to get you started:
 
 🌐 Redes sociais 
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+💫 GitHub stats
+
+
+
+
