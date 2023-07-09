@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white
+![image](https://github.com/thaiicassetari/thaiicassetari/assets/64805045/21983313-c406-4c5b-9d03-4c61793beac9)
+
