@@ -1,6 +1,5 @@
-## Hello, Devs!!
-### Me chamo Thaiane Cassetari 👋
-
+## Me chamo Thaiane Cassetari 👋
+### Hello, Devs!!
 <!--
 **thaiicassetari/thaiicassetari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -37,5 +36,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-![Snake animation](https://github.com/thaiicassetari/thaiicassetari/blob/output/github-contribution-grid-snake.svg)
+
 
