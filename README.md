@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/thaiicassetari">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thaiicassetari&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thaiicassetari&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact&langs_count=8&theme=algolia"/>
   </a> 
 </p>
