@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 -->
-<img src=".github/workflows/icone.png" />
+<img align="right" width="250px" style="margin-top:-20px" src=".github/workflows/icone.png" />
 - 🎓 Ciência da Computação
 - 💼 Serpro
 
