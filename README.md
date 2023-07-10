@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ### Estou aprendendo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-🌐 ###Redes sociais 
+### Redes sociais 
+🌐 ### Redes sociais 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
