@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ### 🌐Redes sociais
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
+<div>
+<a href="https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ### 💫GitHub stats
 
