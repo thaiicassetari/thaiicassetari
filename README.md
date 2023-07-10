@@ -5,6 +5,7 @@
 
 ### Hello, Devs!!👋
 
+### Estudos e experiências
 - 🎓 Ciência da Computação
 - 💼 Serpro
   
