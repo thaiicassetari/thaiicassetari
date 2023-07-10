@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiicassetari&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaiicassetari&theme=cobalt&&bg_color=00000000&border_color=00000000" width="400px"/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=thaiicassetari&theme=cobalt&&bg_color=00000000&border_color=00000000&width=400px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)
 
 
