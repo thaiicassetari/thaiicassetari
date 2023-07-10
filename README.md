@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
 
 ![LinkedIn]([https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/])
-https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
+
 
 
 💫 GitHub stats
