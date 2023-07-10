@@ -1,7 +1,8 @@
+
+<img align="right" width="250px" style="margin-top:-20px" src=".github/workflows/icone.png" />
 #  Thaiane Cassetari 
 
 ### Hello, Devs!!👋
-<img align="right" width="250px" style="margin-top:-20px" src=".github/workflows/icone.png" />
 
 ### 🌐Redes sociais
 <div>
