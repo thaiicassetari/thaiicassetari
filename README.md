@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-🌐 Redes sociais 
+🌐 ###Redes sociais 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
 
-💫 GitHub stats
+💫 ###GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiicassetari&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)
