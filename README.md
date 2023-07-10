@@ -1,5 +1,6 @@
 #  Thaiane Cassetari 
 ### Hello, Devs!!👋
+<img align="right" width="250px" style="margin-top:-20px" src=".github/workflows/icone.png" />
 ### 🌐Redes sociais
 <div>
 <a href="https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -10,7 +11,6 @@
 Here are some ideas to get you started:
 
 -->
-<img align="right" width="250px" style="margin-top:-20px" src=".github/workflows/icone.png" />
 - 🎓 Ciência da Computação
 - 💼 Serpro
 
