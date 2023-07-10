@@ -1,5 +1,5 @@
 ## Hello, Devs!!
-### Olá, me chamo Thaiane Cassetari 👋
+### Me chamo Thaiane Cassetari 👋
 
 <!--
 **thaiicassetari/thaiicassetari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
