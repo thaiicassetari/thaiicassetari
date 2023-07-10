@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello, Devs!!
+### Olá, me chamo Thaiane Cassetari 👋
 
 <!--
 **thaiicassetari/thaiicassetari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 🌐 Redes sociais 
 
-![LinkedIn](https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
 
 💫 GitHub stats
