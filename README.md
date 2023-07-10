@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 </div>
 
 ### 💫GitHub stats
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiicassetari&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)
-</p>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiicassetari&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)
+
+<p align="center"> </p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
