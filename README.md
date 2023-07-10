@@ -32,9 +32,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-<!--
--->
-
 
