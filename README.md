@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
 
-![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white])
+![LinkedIn]([https://img.shields.io/badge/linkedin-thaiane-cassetari-9a9b8b20a/.svg?style=for-the-badge&logo=linkedin&logoColor=white])
 ![LinkedIn](https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/)
 
 
