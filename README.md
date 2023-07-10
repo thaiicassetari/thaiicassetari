@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-![Snake animation](https://github.com/username=thaiicassetari/username=thaiicassetari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/username=thaiicassetari/thaiicassetari/blob/output/github-contribution-grid-snake.svg)
