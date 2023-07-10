@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 🌐 Redes sociais 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+https://www.linkedin.com/in/thaiane-cassetari-9a9b8b20a/
 💫 GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiicassetari&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000)
