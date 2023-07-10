@@ -4,7 +4,7 @@
 **thaiicassetari/thaiicassetari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<img src="github/workflows/icone.png" />
+<img src="[github/workflows/icone.png](https://github.com/thaiicassetari/thaiicassetari/blob/main/.github/workflows/icone.png)" />
 - 🎓 Ciência da Computação
 - 💼 Serpro
 
