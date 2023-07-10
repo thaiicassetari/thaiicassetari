@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiicassetari&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thaiicassetari&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thaiicassetari&repo=github-readme-stats)](https://github.com/anuraghazra/[github-readme-stats](https://github.com/thaiicassetari/projetoHaras)https://github.com/thaiicassetari/projetoHaras)
