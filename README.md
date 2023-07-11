@@ -1,5 +1,5 @@
 
-<img align="right" width="230px" style="margin-top:-20px" src=".github/workflows/avatar.png" />
+<img align="right" width="220px" style="margin-top:-20px" src=".github/workflows/avatar.png" />
 
 #  Thaiane Cassetari 
 
