@@ -1,8 +1,7 @@
-
-
-
 #  Thaiane Cassetari 
+
 <img align="right" width="130px" style="margin-top: -20" src="avatar.png" />
+
 ### Hello, Devs!!👋
 
 ### Estudos e experiências
