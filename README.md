@@ -7,7 +7,7 @@
 
 ### Estudos e experiências
 - 🎓 Ciência da Computação
-- 💼 Serpro
+- 💼 Ibict
   
 ### 🌐Rede social
 <div>
