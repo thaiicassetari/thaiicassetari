@@ -1,7 +1,7 @@
 
-<img align="right" width="130px" style="margin-top: -20" src="avatar.png" />
+<img align="right" width="130px" style="margin-top: 50" src="avatar.png" />
 
-##  Thaiane Cassetari 
+#  Thaiane Cassetari 
 
 ### Hello, Devs!!👋
 
