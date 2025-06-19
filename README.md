@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 📚Estou aprendendo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💫GitHub stats
 
