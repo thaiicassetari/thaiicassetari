@@ -6,7 +6,7 @@
 
 ### Estudos e experiências
 - 🎓 Ciência da Computação
-- 💼 Ibict
+
   
 ### 🌐Rede social
 <div>
