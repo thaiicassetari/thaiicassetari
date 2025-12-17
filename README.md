@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> 
 <a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-%23323330?logo=angular&logoColor=fff&style=for-the-badge"></a>
  
-  [![studying Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+  [![Unity](https://img.shields.io/badge/%20studying-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
 </div>
 
