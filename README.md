@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a> 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> 
 <a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-%23323330?logo=angular&logoColor=fff&style=for-the-badge"></a>
-<a href="https://unity3d.com" target="_blank"><img src="img.shields.io/badge/%20Unity-57b9d3.svg?style=for-the-badge&logo=unity"></a>
 [![Unity](https://img.shields.io/badge/%20Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+
 
 </div>
 
